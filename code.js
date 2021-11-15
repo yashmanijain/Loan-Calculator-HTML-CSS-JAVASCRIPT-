@@ -1,4 +1,4 @@
-function Calculate() {
+ Calculate=()=> {
 
 	const amount = document.querySelector("#amount").value;
 
